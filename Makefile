@@ -15,6 +15,8 @@ package-install:
 lint:
 	poetry run flake8 brain_games
 
+test:
+	#test
 
 # полное имя модуля!: brain_games.scripts.brain_games
 # poetry run python -m brain_games.scripts.brain_games 
